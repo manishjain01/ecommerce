@@ -1,0 +1,158 @@
+
+
+.Edit_form_area .registration_form_s {
+  max-width: 100%;
+  background: #fff;
+  padding: 0px 30px;
+  border: 1px solid #e0e0e0;
+  border-radius: 3px;
+  position: relative;
+
+}
+
+.kuch10 {
+    background: #F4F4F4 !important;
+    border: none !important;
+    height: 45px;
+    border-radius: 5px;
+}
+.registration_form_s form {
+    padding-top: 50px;
+}
+.Edit_form_area .registration_form_s h4 {
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  color: #2f3c44;
+  padding: 50px 0px 22px 0px;
+}
+
+.Edit_form_area .registration_form_s .form-group {
+  margin-bottom: 20px;
+}
+
+.Edit_form_area .registration_form_s .form-group input {
+  width: 100%;
+  height: 46px;
+  box-shadow: none;
+  border: 1px solid #f4f4f4;
+  border-radius: 3px;
+  background: #f4f4f4;
+  padding: 0px 20px;
+  outline: none;
+  box-shadow: none;
+  text-shadow: none;
+  font-size: 16px;
+  color: #334249;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+}
+
+.Edit_form_area .registration_form_s .form-group input.placeholder {
+  font-size: 16px;
+  color: #334249;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+}
+
+.Edit_form_area .registration_form_s .form-group input:-moz-placeholder {
+  font-size: 16px;
+  color: #334249;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+}
+
+.Edit_form_area .registration_form_s .form-group input::-moz-placeholder {
+  font-size: 16px;
+  color: #334249;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+}
+
+.Edit_form_area .registration_form_s .form-group input::-webkit-input-placeholder {
+  font-size: 16px;
+  color: #334249;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+}
+
+.Edit_form_area .registration_form_s .form-group input:focus {
+  border: 1px solid #631623;
+}
+
+.Edit_form_area .registration_form_s .form-group .btn-group {
+  width: 100%;
+  text-align: left;
+}
+
+.Edit_form_area .registration_form_s .form-group .btn-group .dropdown-toggle {
+  width: 100%;
+  border: 1px solid #f4f4f4;
+  background: #f4f4f4;
+  padding: 0px 10px 0px 18px;
+  height: 47px;
+  box-shadow: none;
+  position: relative;
+}
+
+.Edit_form_area .registration_form_s .form-group .btn-group .dropdown-toggle span[data-bind="label"] {
+  text-align: left;
+  float: left;
+  font-size: 16px;
+  color: #334249;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  line-height: 45px;
+}
+
+.Edit_form_area .registration_form_s .form-group .btn-group .dropdown-toggle .arrow_carrot-down {
+  position: absolute;
+  right: 15px;
+  top: 12px;
+}
+
+.Edit_form_area .registration_form_s .form-group .btn-group .dropdown-toggle .arrow_carrot-down .fa-sort-asc {
+  position: relative;
+  right: -8px;
+  top: -1px;
+  color: #c2c2c2;
+}
+
+.Edit_form_area .registration_form_s .form-group .btn-group .dropdown-toggle .arrow_carrot-down .fa-sort-desc {
+  position: relative;
+  bottom: -1px;
+  color: #c2c2c2;
+}
+
+.Edit_form_area .registration_form_s .form-group .form_datetime {
+  position: relative;
+}
+
+.Edit_form_area .registration_form_s .form-group .form_datetime .datetimepicker-dropdown-bottom-right {
+  left: 0px;
+}
+
+.Edit_form_area .registration_form_s .form-group .datepicker {
+  position: relative;
+}
+
+.Edit_form_area .registration_form_s .form-group .datepicker .add-on {
+  position: absolute;
+  right: 10px;
+  color: #c2c2c2;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.Edit_form_area .registration_form_s .form-group.reg_chose {
+  text-align: center;
+  margin: 10px 0px 50px 0px;
+}
+.image-upload input {
+    height: 32px !important;
+    padding-bottom: 40px !important;
+    padding-top: 10px !important;
+}
